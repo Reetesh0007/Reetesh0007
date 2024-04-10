@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- :telescope: I’m a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m currently pursuing B.Tech from ABES Engineering College  and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
