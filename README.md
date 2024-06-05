@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
   <a href="https://www.linkedin.com/in/reetesh-kumar00/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/@ARvlogz_)">
+  <a href="https://www.youtube.com/@ARvlogz_">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://x.com/hrietesh?s=09)">
+  <a href="https://x.com/hrietesh?s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> <br>
   <img src="https://komarev.com/ghpvc/?username=Reetesh0007&style=flat-square&color=blue" alt=""/>
