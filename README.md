@@ -19,7 +19,13 @@ Here are some ideas to get you started: -->
   </a>
   <a href="https://x.com/hrietesh?s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> <br>
+  </a> 
+  <a href="https://www.instagram.com/hrietesh_0007?igsh=MWt3bHppbWFjcWlmdg==">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/share/K8YZuwYEpctRtgt8/?mibextid=qi2Omg">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=Reetesh0007&style=flat-square&color=blue" alt=""/>
 </div>
 
